@@ -1,1 +1,1 @@
-# use power shell ise
+# USE PowerShell ISE in administrator
