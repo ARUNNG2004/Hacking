@@ -1,0 +1,18 @@
+Step 1: Open Command Prompt as administrator.
+
+
+
+Step 2: copy past down all 
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+
+
+
+Step 3:  copy past down all 
+
+slmgr /skms kms8.msguides.com
+
+
+Step 4:   copy past down all
+slmgr /ato
